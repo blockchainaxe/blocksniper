@@ -8,6 +8,7 @@ Built using an array of front-end and back-end techonologies.
 Current features include:
 - Mempool Sniping
 - Custom Gas
+- Front-runner
 - Telegram Sniping
 - Automatic pre-approval of Tokens
 - Private node connections
@@ -16,5 +17,10 @@ Current features include:
 - Live real-time dashboard
 - Trailing Stop-loss
 - Multiple buys via Solidity in single txns
+
+Todos:
+- Multi-chain support (AVAX)
+- Backrunning? (less popular these days)
+- Ping tests within client
 
 `Any questions or suggestions, feel free to contact us through PM`
