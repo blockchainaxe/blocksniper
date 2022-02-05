@@ -1,4 +1,20 @@
 # Sniper X for PancakeSwap
 Sniper X is a [PancakeSwap Sniper Bot](https://sniperxbot.com) that front-runs and snipes transactions on the ETH mempool.
 
-Built using multiple front-end and back-end techonologies, the source code will be open-sourced and added for community collaboration in due course.
+<img width="957" alt="Screenshot 2022-02-04 at 00 31 39" src="https://user-images.githubusercontent.com/99099341/152659733-8077d980-a5f6-410d-a5da-5fd8f3dea6b2.png">
+
+Built using an array of front-end and back-end techonologies.
+
+Current features include:
+- Mempool Sniping
+- Custom Gas
+- Telegram Sniping
+- Automatic pre-approval of Tokens
+- Private node connections
+- Post-liquidity buys
+- Token validation
+- Live real-time dashboard
+- Trailing Stop-loss
+- Multiple buys via Solidity in single txns
+
+`Any questions or suggestions, feel free to contact us through PM`
