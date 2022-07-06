@@ -1,5 +1,10 @@
-# Sniper X for PancakeSwap
-Sniper X is a [PancakeSwap Sniper Bot](https://sniperxbot.com) that front-runs and snipes transactions on the ETH mempool.
+# SniperX for PancakeSwap
+# Crypto Sniping Bot
+# Dex Sniper Bot
+
+SniperX is a [PancakeSwap Sniper Bot](https://sniperxbot.com) that front-runs and snipes transactions on the BSC Mempool.
+
+https://sniperxbot.com/
 
 <img width="957" alt="Screenshot 2022-02-04 at 00 31 39" src="https://user-images.githubusercontent.com/99099341/152659733-8077d980-a5f6-410d-a5da-5fd8f3dea6b2.png">
 
